@@ -1,0 +1,58 @@
+In this the topics including FINAL are the final videos for the respective phases other videos are step by step process videos:-
+
+PHASE 1:-
+
+Phase1_step1:-
+
+https://youtu.be/EwFA34ldsxA
+
+Phase1_step2:-
+
+https://youtu.be/gr_m3tF5p4M
+
+PHASE 3 :-
+
+Proportional controller for moving in straight line
+(along a certain heading angle which I enter):-
+
+Description : - 
+       I introduced some error to it to check whether it followed the angle properly
+
+       https://youtu.be/HVFEHlqr2Zk
+
+Proportional controller for moving in straight line with distance calculation(optical encoders)
+(along a certain heading angle which I enter):-
+
+Description :-
+     In this video the bot moves a distance of 100cm
+
+     https://youtu.be/td_rFEItTsM
+
+FINAL PHASE 1 AND PHASE 2:-
+(Separating x,y and Digit Recognition) 
+
+For 1 digit and 2 digit nos. :-
+
+    https://youtu.be/QaYx-CPZhG0
+
+For 3 digit no. :-
+
+     https://youtu.be/-JJiSkNpzAs
+
+FINAL PHASE 3 :-
+    The bot is placed at 0,0 or initial point
+
+     https://youtu.be/wvqpsQEWj98
+
+FINAL PHASE1,PHASE2 AND PHASE3 :-
+
+While taking this video battery(of the bot) was low and also this video is  just to show that serial communication between Arduino and python works properly ,kindly check 
+FINAL PHASE1 AND PHASE2   and  FINAL PHASE3 before watching this .
+
+     https://youtu.be/panlfAg9dAQ     
+
+
+
+
+
+
