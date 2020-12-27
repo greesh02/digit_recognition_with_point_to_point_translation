@@ -25,4 +25,6 @@ This can be used in automated translation.
 # SECONDARY:
 • Planning to have a attach a robotic arm over the bot in order to pick and place the objects from that location to the initial coordinates or to some other coordinates.
 
+# FINAL IMAGE OF BOT
+
 ![](bot%20images/side.jpeg)
