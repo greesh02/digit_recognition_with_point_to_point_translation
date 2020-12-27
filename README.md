@@ -24,3 +24,5 @@ This can be used in automated translation.
 • And from this point based on the input I can move the to the other coordinates accordingly.(eg. 0,0 → 1,1 → 3,2 → ………….).
 # SECONDARY:
 • Planning to have a attach a robotic arm over the bot in order to pick and place the objects from that location to the initial coordinates or to some other coordinates.
+
+![](/bot images/side.jpeg)
