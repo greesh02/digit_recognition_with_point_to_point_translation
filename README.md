@@ -31,7 +31,7 @@ For 3 digit no. :-
 • So now the coordinates found by the model is transmitted serially to the mobile bot(by establishing a communication with lap via python to Bluetooth module to Arduino )which moves to the corresponding location (basically it’s a point to point movement).
 • Initially the bot is placed at 0,0 (simply like one corner of a square room or some random point ) and if the found points are 1,1 it moves to 1,1 with the help of encoder and compass sensor to calculate the travelling distance and to adjust the direction of translation in x and y directions (so I will map the distance accordingly for example 1 unit representing 10 cm so 1,1 – 10cm,10cm from 0,0 ).
 • And from this point based on the input I can move the to the other coordinates accordingly.(eg. 0,0 → 1,1 → 3,2 → ………….).
-# FINAL PHASE 3 :-
+# VIDEO OF PHASE 3 :-
 
    The bot is placed at 0,0 or initial point:-
    https://youtu.be/wvqpsQEWj98
