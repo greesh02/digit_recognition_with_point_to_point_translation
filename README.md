@@ -18,10 +18,24 @@ This can be used in automated translation.
 • Then saving the images containing the coordinates in binary format(using the required operations with OpenCV like thresholding ).
 # ii) PHASE 2 :- Digit recognition using deep learning and Python
 • By using the MINST dataset I will train a model to recognise the digit in the images retrieved from the previous part(OpenCV) and display the corresponding coordinates and also store them is specific variable.
+# VIDEOS OF PHASE 1 AND PHASE 2:-
+(Separating x,y and Digit Recognition) 
+
+For 1 digit and 2 digit nos. :-
+    https://youtu.be/QaYx-CPZhG0
+    
+For 3 digit no. :-
+     https://youtu.be/-JJiSkNpzAs
+
 # iii) PHASE 3 :- Establishing Serial Communication(Bluetooth) and Translation of bot to the required location
 • So now the coordinates found by the model is transmitted serially to the mobile bot(by establishing a communication with lap via python to Bluetooth module to Arduino )which moves to the corresponding location (basically it’s a point to point movement).
 • Initially the bot is placed at 0,0 (simply like one corner of a square room or some random point ) and if the found points are 1,1 it moves to 1,1 with the help of encoder and compass sensor to calculate the travelling distance and to adjust the direction of translation in x and y directions (so I will map the distance accordingly for example 1 unit representing 10 cm so 1,1 – 10cm,10cm from 0,0 ).
 • And from this point based on the input I can move the to the other coordinates accordingly.(eg. 0,0 → 1,1 → 3,2 → ………….).
+# FINAL PHASE 3 :-
+
+   The bot is placed at 0,0 or initial point:-
+   https://youtu.be/wvqpsQEWj98
+
 # SECONDARY:
 • Planning to have a attach a robotic arm over the bot in order to pick and place the objects from that location to the initial coordinates or to some other coordinates.
 
